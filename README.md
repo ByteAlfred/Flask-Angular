@@ -29,4 +29,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 **BACKEND -FLASK**
 Python3 -m venv venv ##Virtual Environment
+
+
 source venv/bin/activate ## activate virtual environment in linux
